@@ -1,4 +1,3 @@
 fn main(){
- printIn!("Welcome to Rust Programming!")
- println!("Henceforth you shall be called RUSTACIANS!");
+ printIn!("Welcome to COC 101!")
 }
